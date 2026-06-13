@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# My files
+.DS_Store
+.ipynb_checkpoints/
+checkpoints
+reranker-finetuned
+
 # C extensions
 *.so
 
